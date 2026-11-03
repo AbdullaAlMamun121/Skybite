@@ -1,0 +1,6 @@
+{
+  "name": "Sky Bite Restaurant - Premium Rooftop Dining & Menu",
+  "description": "Official website for Sky Bite Restaurant in Kushtia, Bangladesh. Experience premium rooftop dining, Chinese, Italian, and Seafood cuisine with instant WhatsApp ordering and table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
